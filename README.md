@@ -1,3 +1,3 @@
 demo-puppet-nodejs-helloworld
 =============================
-Demo
+Demo puppet
