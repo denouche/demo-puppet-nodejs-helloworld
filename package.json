@@ -1,0 +1,8 @@
+{
+    "name": "demo-puppet-nodejs-helloworld",
+    "version": "0.0.1",
+    "author": "denouche",
+    "dependencies": {
+        "express"       : "4.x.x"
+    }
+}
